@@ -3,15 +3,15 @@
     "header": {
         "description": "Nether Texture Pack (no mobs yet)",
         "name": "GK's Poppin' Nether Pack",
-        "uuid": "66c6e9a8-3093-462a-9c36-dbb052165821",
+        "uuid": "dfd0831a-0095-e5cb-03c3-2fef5daaa71",
         "version": [0, 0, 2],
         "min_engine_version": [ 1, 14, 0 ]
     },
     "modules": [
         {
-            "description": "WIP",
+            "description": "Nether Assets",
             "type": "resources",
-            "uuid": "743f6949-53be-44b6-b326-398005028819",
+            "uuid": "b8b317e8-75d2-6157-e4c2-205c0b514fd",
             "version": [0, 0, 1]
         }
     ]
